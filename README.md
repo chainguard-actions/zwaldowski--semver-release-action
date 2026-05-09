@@ -9,6 +9,7 @@ Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at
 | Version | Tag | Upstream commit |
 |---------|-----|-----------------|
 | v5 | [`v5`](https://github.com/chainguard-actions/semver-release-action/tree/v5) | — |
+| v6 | [`v6`](https://github.com/chainguard-actions/semver-release-action/tree/v6) | — |
 
 ## Privacy
 
