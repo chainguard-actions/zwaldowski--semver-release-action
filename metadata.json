@@ -1,7 +1,0 @@
-{
-  "owner": "zwaldowski",
-  "name": "semver-release-action",
-  "visibility": "public",
-  "description": "Determine the next semantic version and optionally tag it.",
-  "block_publish": false
-}
